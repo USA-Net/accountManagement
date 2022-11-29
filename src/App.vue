@@ -12,7 +12,7 @@ import TheWelcome from './components/TheWelcome.vue'
     </div>
   </header>
 
-  <main>335656
+  <main>
     <TheWelcome />
   </main>
 </template>
